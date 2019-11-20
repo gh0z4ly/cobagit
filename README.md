@@ -1,2 +1,0 @@
-# cobagit
-learn basic git
